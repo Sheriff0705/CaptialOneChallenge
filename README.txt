@@ -13,8 +13,9 @@ Installation Instruction.
   b)The ReadMe file
   c)The APK file for the application itself.
 2)Select the Apk file named SummarizerApp.apk
-3)The it will preseent a screen that looks like this
-4)click on open binary file, this should initialize the download of the file.
-5)Click on the downloaded apk file and you should see this page, telling you that the insallation was blocked.
-
-6)Click on settings and select enable installation from unknown sources as shown below.
+3)click on open binary file, this should initialize the download of the file.
+4)Click on the downloaded apk file, telling you that the insallation was blocked.
+6)Click on settings and select enable installation from unknown sources
+7)Enable "Unknown Sources" as shown below.
+8)Then click on install
+9)The App will be installed and you will be able to summarize any article you want.
