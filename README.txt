@@ -19,4 +19,7 @@ Installation Instruction.
 7)Enable "Unknown Sources" as shown below.
 8)Then click on install
 9)The App will be installed and you will be able to summarize any article you want.
+10)Paste the link to the article in the text box
+11)Click on the summarize botton
+10)click on the home botton to go back and repeat.
 NOTE THAT THE README THAT CONTAINS SOME IMAGES ARE IN THE CAPITALONECHALLENGE.ODT FILE.
